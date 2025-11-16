@@ -43,7 +43,6 @@ Aplicação completa com **React + .NET + MySQL**, contendo:
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
 
-> Se não aparecer, sem problema — ele ativa automático depois de algum tempo usando.
 
 ---
 
