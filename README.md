@@ -1,48 +1,39 @@
 # 👋 Olá! Eu sou o Cristian Schmidt
 
-Desenvolvedor em evolução, focado em criar soluções reais com **C# (.NET)**, **React**, **SQL** e arquitetura limpa.  
-Atualmente trabalhando em projetos full stack e evoluindo em boas práticas, autenticação JWT, APIs escaláveis e organização de código.
+Desenvolvedor em evolução, focado em construir soluções reais com **C# (.NET)**, **React**, **SQL** e boas práticas de arquitetura.  
+Atualmente estudando e aplicando conceitos de **APIs REST**, **DTOs**, **camadas**, **autenticação JWT** e bancos relacionais.
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## 🚀 Tecnologias & Stack Principal
+
+**Linguagens**  
+- C#  
+- JavaScript  
 
 **Back-end**  
-- C# / .NET  
-- Entity Framework  
-- MySQL & SQL Server  
+- .NET / ASP.NET Core  
+- Entity Framework Core  
+- SQL Server  
+- MySQL  
 
 **Front-end**  
-- React + Vite  
+- React  
+- Vite  
 - HTML, CSS, JS  
 
-**DevOps & Ferramentas**  
+**Ferramentas**  
+- Git & GitHub  
 - Railway  
 - Vercel  
-- Git & GitHub  
+- Beekeeper Studio / SSMS  
 
 ---
 
-## 📌 Projeto em Destaque
-
-### 💈 Barbearia Portifolio  
-Aplicação completa com **React + .NET + MySQL**, contendo:
-
-- ✔ Autenticação JWT + Refresh Token  
-- ✔ Painel administrativo completo  
-- ✔ Rotas protegidas  
-- ✔ Agendamento com validações  
-- ✔ Listagem, filtros e controle de status  
-- ✔ Deploy full: *API no Railway* + *Front na Vercel*  
-
-> Projeto criado para treinar arquitetura em camadas, DTOs, boas práticas e integração full stack.
-
----
-
-## 📊 Métricas do GitHub 
+## 📊 Algumas métricas do meu GitHub
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonesch&layout=compact&theme=dracula)
 
 ---
 
@@ -52,4 +43,4 @@ Aplicação completa com **React + .NET + MySQL**, contendo:
 
 ---
 
-> _“Dev em evolução constante. Criando projetos reais para aprender de verdade.”_
+> _“Dev em evolução constante, sempre aprendendo e construindo algo novo.”_
