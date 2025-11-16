@@ -39,7 +39,7 @@ Aplicação completa com **React + .NET + MySQL**, contendo:
 
 ---
 
-## 📊 Métricas do GitHub (caso você já tenha o badge do stats)
+## 📊 Métricas do GitHub 
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
 
