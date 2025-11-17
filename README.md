@@ -5,7 +5,7 @@ Atualmente estudando e aplicando conceitos de **APIs REST**, **DTOs**, **camadas
 
 ---
 
-## 🚀 Tecnologias & Stack Principal
+## 🚀 Atualmente estudando:
 
 **Linguagens**  
 - C#  
