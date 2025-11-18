@@ -1,37 +1,63 @@
-# 👋 Olá! Eu sou o Cristian Schmidt
+# Cristian Schmidt
 
-Desenvolvedor em evolução, focado em construir soluções reais com **C# (.NET)**, **React**, **SQL** e boas práticas de arquitetura.  
-Atualmente estudando e aplicando conceitos de **APIs REST**, **DTOs**, **camadas**, **autenticação JWT** e bancos relacionais.
+Desenvolvedor em constante evolução, com foco em aplicações web utilizando **C#/.NET**, **React**, **TypeScript** e **bancos de dados SQL**.  
+Atualmente trabalhando em projetos full stack, aprofundando boas práticas de arquitetura, segurança e organização de código.
 
----
+## Habilidades Principais
+- C# e .NET  
+- React, TypeScript e JavaScript  
+- MySQL e SQL Server  
+- Desenvolvimento de APIs REST  
+- Autenticação JWT  
+- Arquitetura em camadas (Controller, Service, Repository)  
+- Versionamento com Git e GitHub  
 
-## 🚀 Atualmente estudando:
+## Sobre
+Busco evoluir através de projetos práticos e estudos contínuos, com atenção à clareza, manutenibilidade e padrões de desenvolvimento.  
+Interesse em backend com .NET, interfaces modernas com React e integração entre serviços.
 
-**Linguagens**		  		      **Front-end**	
-- C#						              - React			
-- JavaScript				          - Vite			  
-- Python					            - HTML, CSS, JS
-  
-**Ferramentas**				        **Back-end**  
-- Git & GitHub				        - .NET / ASP.NET Core
-- Railway  					          - Entity Framework Core
-- Vercel  					          - SQL Server  
-- Beekeeper Studio / SSMS	    - MySQL 
-  
+## Tecnologias e Ferramentas
 
----
+### Linguagens de Programação
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-## 📊 Algumas métricas do meu GitHub
+### Marcação e Estilo
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonesch&layout=compact&theme=dracula)
+### Front-end
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
----
+### Back-end
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
 
-## 📫 Como me encontrar
+### Bancos de Dados
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-schmidt-67852723a/)
+### Utilities / Ferramentas
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</div>
 
----
+## Contato
 
-> _“Dev em evolução constante, sempre aprendendo e construindo algo novo.”_
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cristian-schmidt)
+[<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alone.lineess/)
