@@ -7,26 +7,17 @@ Atualmente estudando e aplicando conceitos de **APIs REST**, **DTOs**, **camadas
 
 ## 🚀 Atualmente estudando:
 
-**Linguagens**  
-- C#  
-- JavaScript  
-
-**Back-end**  
-- .NET / ASP.NET Core  
-- Entity Framework Core  
-- SQL Server  
-- MySQL  
-
-**Front-end**  
-- React  
-- Vite  
-- HTML, CSS, JS  
-
-**Ferramentas**  
-- Git & GitHub  
-- Railway  
-- Vercel  
-- Beekeeper Studio / SSMS  
+**Linguagens**		  		      **Front-end**	
+- C#						              - React			
+- JavaScript				          - Vite			  
+- Python					            - HTML, CSS, JS
+  
+**Ferramentas**				        **Back-end**  
+- Git & GitHub				        - .NET / ASP.NET Core
+- Railway  					          - Entity Framework Core
+- Vercel  					          - SQL Server  
+- Beekeeper Studio / SSMS	    - MySQL 
+  
 
 ---
 
