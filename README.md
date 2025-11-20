@@ -59,7 +59,7 @@ Interesse em backend com .NET, interfaces modernas com React e integração entr
 
 ##
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
 
 ## Contato
 
