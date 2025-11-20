@@ -57,6 +57,10 @@ Interesse em backend com .NET, interfaces modernas com React e integração entr
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </div>
 
+##
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
+
 ## Contato
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cristian-schmidt-67852723a/)
