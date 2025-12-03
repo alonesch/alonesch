@@ -46,20 +46,30 @@ Interesse em backend com .NET, interfaces modernas com React e integração entr
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </div>
 
 ### Utilities / Ferramentas
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+
+
 </div>
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonesch&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alonesch&theme=dracula&hide_border=true)
+
+
+
+
 
 ## Contato
 
