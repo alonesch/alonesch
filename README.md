@@ -73,5 +73,5 @@ Interesse em backend com .NET, interfaces modernas com React e integração entr
 
 ## Contato
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cristian-schmidt-67852723a/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alonesch/)
 [<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alone.lineess/)
