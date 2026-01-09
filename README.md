@@ -1,5 +1,5 @@
 # Cristian Schmidt
-
+ 
 Desenvolvedor em constante evolução, com foco em aplicações web utilizando **C#/.NET**, **React**, **TypeScript** e **bancos de dados SQL**.  
 Atualmente trabalhando em projetos full stack, aprofundando boas práticas de arquitetura, segurança e organização de código.
 
