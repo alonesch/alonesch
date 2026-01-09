@@ -1,6 +1,6 @@
 # About
 Me chamo Cristian, tenho 32 anos e estou em transição de carreira para desenvolvimento de software, com foco em backend.
-Iniciei meus estudos com C# e .NET, atuando no desenvolvimento de APIs RESTful, e venho expandindo meus conhecimentos em frontend com React e React Native, utilizando TypeScript e JavaScript.
+Iniciei meus estudos com C# e .NET, atuando no desenvolvimento de APIs RESTful, e venho expandindo meus conhecimentos em frontend com React, utilizando TypeScript e JavaScript.
 Atuei por 6 anos como Suporte de Campo, onde adquiri sólida experiência com redes, servidores, ERP, POS e bancos de dados relacionais. Atualmente trabalho como Service Desk N2, lidando diretamente com SQL Server e Microsoft Azure, além de rotinas de suporte a sistemas críticos.
 
 Sempre tive forte interesse por tecnologia, com base em hardware e infraestrutura, e hoje concentro meus estudos na engenharia de software, especialmente em backend, arquitetura de APIs, banco de dados e ambientes Linux. 
