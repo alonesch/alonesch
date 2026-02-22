@@ -25,7 +25,8 @@ Futura implementação de sistema ADMIN, onde será possível validação do est
 
   O Clube 103% é uma plataforma digital orientada ao desenvolvimento pessoal, criada para oferecer uma experiência moderna, rápida e organizada para distribuição de conteúdos exclusivos. O objetivo atual é construir um MVP sólido, escalável e sustentável, que sirva como base para a futura evolução do produto em um SaaS completo, com autenticação real, paywall, assinaturas e dashboards dinâmicos.
 
-- Kpop! HALL [Backend](https://github.com/alonesch/Kpop-HALL-Backend)
+- Kpop! HALL [Backend](https://github.com/alonesch/Kpop-HALL-Backend):
+  
   O Kpop! HALL é um projeto de estudos, visando criar uma vitrine virtual de colecionadores. O projeto iniciará apenas com um grupo do segmento, com pretensão de abraçar mais grupos conforme escalona.
   O objetivo é criar uma base solida de Photocards originais (regulares e irregulares) onde poderá ser exibido a sua coleção e uma wishlist, com objetivo de fomentar a interação de troca entre os collectors. Projeto em .NET 10, o Kpop! HALL surgiu como uma oportunidade de estudar Clean Architeture, ambiente de testes pré implementação e boas práticas. Ainda em WIP, seguimos escalonando o projeto para torna-lo, quiçá, futuramente, uma API pública para que outros collectors possam criar seu próprio projeto. 
 
